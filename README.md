@@ -1,3 +1,4 @@
 # hello-world
-Just another repository
-Hello, i am Axel. I am 22 years old.
+
+Si la vida fuera estable todo el tiempo, yo no beberia ni malgastaria la plata
+    - Diomedes Diaz
